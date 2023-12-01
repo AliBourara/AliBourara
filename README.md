@@ -3,12 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
-
-I'm Ali Bourara,As a web developer and graduate from Coding Dojo's bootcamp, I've mastered full-stack development using C\\#, MERN, and Python. In just four months, I completed three diverse projects, highlighting my ability to learn quickly and work effectively in a team. Eager to advance in web development, I'm focused on enhancing both technical skills and collaboration for impactful contributions to innovative projects.I'm Also a passionate gamer 🎮, guitarist 🎸, and anime aficionado 🍥. My world revolves around epic gaming adventures, creating soulful tunes on my guitar, and diving into the captivating stories of anime. When I'm not lost in those worlds, I'm a movie buff 🎬 and enjoy crafting visual stories through video editing 🎥✂️.
-
-* 🌍  I'm based in Tunis,Tunisia
-* ✉️  You can contact me at [bourara.ali.pro@gmail.com](mailto:bourara.ali.pro@gmail.com)
-
 ### Skills
 
 <p align="left">
@@ -18,6 +12,13 @@ I'm Ali Bourara,As a web developer and graduate from Coding Dojo's bootcamp, I'v
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/AliBourara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ali-bourara-779168196" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@alibourara4492" target="_blank" rel="noreferrer"> <picture>  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+
+
+I'm Ali Bourara,As a web developer and graduate from Coding Dojo's bootcamp, I've mastered full-stack development using C\\#, MERN, and Python. In just four months, I completed three diverse projects, highlighting my ability to learn quickly and work effectively in a team. Eager to advance in web development, I'm focused on enhancing both technical skills and collaboration for impactful contributions to innovative projects.I'm Also a passionate gamer 🎮, guitarist 🎸, and anime aficionado 🍥. My world revolves around epic gaming adventures, creating soulful tunes on my guitar, and diving into the captivating stories of anime. When I'm not lost in those worlds, I'm a movie buff 🎬 and enjoy crafting visual stories through video editing 🎥✂️.
+
+* 🌍  I'm based in Tunis,Tunisia
+* ✉️  You can contact me at [bourara.ali.pro@gmail.com](mailto:bourara.ali.pro@gmail.com)
+
 
 <b>My GitHub Stats</b>
 
