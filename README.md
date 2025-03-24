@@ -65,7 +65,11 @@ web development including expertise in Python, MERN, and .NET, I quickly grasp h
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//AliBourara/AliBourara/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//AliBourara/AliBourara/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AliBourara/AliBourara/output/github-snake.svg" />
+</picture>
 
 ###
 
